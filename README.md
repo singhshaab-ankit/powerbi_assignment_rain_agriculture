@@ -13,8 +13,11 @@ The goal is to help stakeholders and learners understand rainfall-driven agricul
 🔹 Dataset Information
 
 Dataset Name: rain-agriculture.csv
+
 Source: HeroX Private Limited (Learning Dataset)
+
 Time Period: 1966–2017
+
 Key Columns:
 
 State Name – Name of Indian state
@@ -25,7 +28,7 @@ RICE AREA, WHEAT AREA, MAIZE AREA – Crop area (in 1000 ha)
 
 JUN, JUL, AUG, SEP – Monthly rainfall (in mm)
 
-🔹 Tools & Technologies Used
+🔹 Tools & Technologies Used:
 
 Microsoft Power BI Desktop
 
@@ -35,7 +38,7 @@ DAX (for calculated measures)
 
 Visualization Components: Line, Bar, Map, Scatter, KPI Cards
 
-🔹 Data Cleaning & Transformation Steps
+🔹 Data Cleaning & Transformation Steps:
 
 Imported dataset into Power BI (Get Data → Text/CSV).
 
